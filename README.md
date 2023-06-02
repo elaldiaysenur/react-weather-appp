@@ -1,7 +1,7 @@
 # Weather Forecast App 🌞
 
 * Weather forecast for Turkey's cities.
-*This web app built with using React.
+* This web app built with using React.
 
 
 Project Details
